@@ -1,33 +1,52 @@
-# Olá! 👋 Bem-vindo ao meu GitHub!  
+# 👋 Olá! Bem-vindo ao meu GitHub!  
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (3º semestre)  
-💡 Explorando o mundo do desenvolvimento Back-End  
-🚀 Aprendendo e praticando **Python, Java, JavaScript e APIs**  
+💡 Focado em **Desenvolvimento Back-End**  
+🚀 Aprendendo sobre **APIs, Banco de Dados, Arquitetura de Software e Frameworks Back-End**  
 
 ---
 
-### 🛠️ **Tecnologias e Ferramentas**  
+## 🛠️ **Stack Back-End**  
 
-- 💻 **Linguagens:** Python, Java (básico), JavaScript (básico)  
-- 🌐 **Front-end:** HTML5, CSS3  
-- 🔗 **APIs:** Conhecimento inicial  
-- 🗄️ **Banco de Dados:** Ainda sem experiência, mas estudando SQL em breve!  
+### 🔹 **Linguagens e Frameworks**  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**  
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) **Java (aprendendo mais)**  
+- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) **Django (em estudo futuro)**  
+- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) **Spring Boot (em estudo futuro)**  
+
+### 🔹 **Banco de Dados e APIs**  
+- ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL / SQL (estudando em breve!)**  
+- ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white) **APIs RESTful**  
+
+### 🔹 **Ferramentas e DevOps**  
+- ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) **Git & GitHub**  
+- ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) **Docker (em estudo futuro)**  
+- ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) **Postman (para testar APIs)**  
 
 ---
 
-### 📊 **GitHub Stats**  
+## 📊 **GitHub Stats**  
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-username&layout=compact&theme=dark)  
 
 ---
 
-### 🌎 **Onde me encontrar?**  
+## 🌎 **Onde me encontrar?**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/emanoe-lima-a2160a317)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanoe-lima-a2160a317/)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](limaemanoe91@gmail.com)  
 
-🚀 **Em busca de conhecimento para me tornar um desenvolvedor Back-End!**  
-📚 Sempre estudando e aprendendo novas tecnologias.  
+🚀 **Buscando sempre evoluir como desenvolvedor Back-End!**  
+📚 Focado em aprender mais sobre **arquitetura de software, banco de dados, APIs e escalabilidade**.  
+
+---
+
+## ✅ **Próximos Passos no Aprendizado**  
+✔ Aprofundar mais em **Python e Java**  
+✔ Estudar **SQL e Banco de Dados Relacionais**  
+✔ Praticar **APIs RESTful e integração com banco de dados**  
+✔ Conhecer frameworks como **Django (Python) ou Spring Boot (Java)**  
+✔ Aprender sobre **Docker e Deploy de aplicações**  
 
 ---
