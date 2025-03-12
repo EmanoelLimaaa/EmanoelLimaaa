@@ -9,10 +9,9 @@
 ## 🛠️ **Stack Back-End**  
 
 ### 🔹 **Linguagens e Frameworks**  
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**  
-- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) **Java (aprendendo mais)**  
+- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Python**
+- ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) **Flask**
 - ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white) **Django (em estudo futuro)**  
-- ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) **Spring Boot (em estudo futuro)**  
 
 ### 🔹 **Banco de Dados e APIs**  
 - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) **PostgreSQL / SQL (estudando em breve!)**  
@@ -34,7 +33,7 @@
 
 ## 🌎 **Onde me encontrar?**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/emanoe-lima-a2160a317/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white) ] (www.linkedin.com/in/emanoe-lima-a2160a317)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](limaemanoe91@gmail.com)  
 
 🚀 **Buscando sempre evoluir como desenvolvedor Back-End!**  
@@ -43,10 +42,10 @@
 ---
 
 ## ✅ **Próximos Passos no Aprendizado**  
-✔ Aprofundar mais em **Python e Java**  
+✔ Aprofundar mais em **Python**  
 ✔ Estudar **SQL e Banco de Dados Relacionais**  
 ✔ Praticar **APIs RESTful e integração com banco de dados**  
-✔ Conhecer frameworks como **Django (Python) ou Spring Boot (Java)**  
-✔ Aprender sobre **Docker e Deploy de aplicações**  
+✔ Conhecer frameworks como **Django e Flask (Python)**  
+✔ Aprender sobre **Docker e Deploy**  
 
 ---
