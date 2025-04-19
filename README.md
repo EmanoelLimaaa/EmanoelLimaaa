@@ -1,20 +1,21 @@
 <h1 align="center">Emanoel Lima</h1>
+
 <p align="center">
-  Profissional em Tecnologia da Informação | Desenvolvedor Backend  
-  <br>Python • Django • Redes • Suporte Técnico
+  Profissional em Tecnologia da Informação • Desenvolvedor Backend  
+  <br><strong>Python</strong> • <strong>Django</strong> • <strong>Redes</strong> • <strong>Suporte Técnico</strong>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Sou um profissional em desenvolvimento na área de Tecnologia da Informação, com foco atual em **desenvolvimento backend com Python e Django**. Possuo formação técnica e experiência prática em suporte de TI, redes de computadores e atendimento ao cliente.
+Sou um profissional em desenvolvimento na área de Tecnologia da Informação, com foco atual em **desenvolvimento backend com Python e Django**. Tenho formação técnica e experiência prática em suporte de TI, redes e atendimento ao cliente.
 
-Atualmente, estou cursando o **3º semestre de Análise e Desenvolvimento de Sistemas** e buscando constantemente novos desafios para crescer na área da tecnologia com ética, disciplina e comprometimento.
+Atualmente, curso o **3º semestre de Análise e Desenvolvimento de Sistemas** e sigo em constante evolução, buscando novos desafios com ética, disciplina e comprometimento.
 
 ---
 
-### 🎓 Formação
+### 🎓 Formação Acadêmica
 
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
   *Universidade Pitágoras/Unopar Anhanguera* — *2024 ~ 2026 (em andamento)*
@@ -32,24 +33,21 @@ Atualmente, estou cursando o **3º semestre de Análise e Desenvolvimento de Sis
 - **Linguagens & Frameworks:**  
   `Python`, `Django`, `HTML`, `CSS`, `JavaScript (básico)`
 
-- **Banco de Dados:**  
-  `SQLite`, `PostgreSQL`, `MySQL`
+- **Banco de Dados (em aprendizado):**  
+  Noções iniciais de `SQLite`, `PostgreSQL`
 
 - **Sistemas Operacionais:**  
-  `Linux (Ubuntu / Manjaro GNOME)`, `Windows`
+  `Linux`
 
-- **Redes e Suporte:**  
-  Configuração de redes, manutenção de computadores, atendimento técnico ao usuário.
-
-- **Outras Skills:**  
-  Git & GitHub, versionamento, terminal Linux, noções de segurança da informação.
+- **Outros Conhecimentos:**  
+  Git & GitHub, terminal Linux, versionamento de código, redes de computadores, manutenção e suporte técnico.
 
 ---
 
-### 🛠 Projetos
+### 🧪 Projetos
 
-Em breve, irei publicar projetos com foco em backend e APIs usando Python + Django.  
-Atualmente desenvolvendo uma **To-Do List personalizada** com autenticação e painel administrativo.
+- 🔧 **Em desenvolvimento:**  
+  Projeto de um **site de livros** com autenticação de usuários e painel administrativo, usando **Python + Django**.
 
 ---
 
@@ -64,11 +62,15 @@ Atualmente desenvolvendo uma **To-Do List personalizada** com autenticação e p
 
 ### 📫 Contato
 
-- **LinkedIn:** [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)  
-- **Email:** seuemail@email.com  
-- **Discord:** `teuusuario#0000`
+- **LinkedIn:** [linkedin.com/in/emanoellimaaa](https://www.linkedin.com/in/emanoellimaaa/)  
+- **Email:** limaemanoe91@gmail.com  
 
 ---
 
-> “Disciplina é fazer o que tem que ser feito, mesmo quando você não quer.”  
-> — autor desconhecido
+### ✨ Frase que me representa
+
+> **"Nem sempre motivado, mas sempre em movimento. Silêncio, foco e propósito."**
+
+---
+
+Se quiser, posso te mandar isso pronto em arquivo `.md`, criar um logo visual pro topo, ou até te ajudar a subir os projetos no GitHub com README individual. Me chama que eu deixo tudo lindão pra ti, neném! 🫶
