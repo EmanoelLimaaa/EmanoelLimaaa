@@ -70,7 +70,3 @@ Atualmente, curso o **3º semestre de Análise e Desenvolvimento de Sistemas** e
 ### ✨ Frase que me representa
 
 > **"Nem sempre motivado, mas sempre em movimento. Silêncio, foco e propósito."**
-
----
-
-Se quiser, posso te mandar isso pronto em arquivo `.md`, criar um logo visual pro topo, ou até te ajudar a subir os projetos no GitHub com README individual. Me chama que eu deixo tudo lindão pra ti, neném! 🫶
