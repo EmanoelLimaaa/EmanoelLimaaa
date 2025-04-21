@@ -31,7 +31,7 @@ Atualmente, curso o **3º semestre de Análise e Desenvolvimento de Sistemas** e
 ### 💡 Habilidades Técnicas
 
 - **Linguagens & Frameworks:**  
-  `Python`, `Django`, `HTML`, `CSS`, `JavaScript (básico)`
+  `Python`, `Django`, `HTML`, `CSS`, `JavaScript`
 
 - **Banco de Dados (em aprendizado):**  
   Noções iniciais de `SQLite`, `PostgreSQL`
