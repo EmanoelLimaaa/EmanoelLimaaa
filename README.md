@@ -55,7 +55,6 @@ Atualmente, curso o **3º semestre de Análise e Desenvolvimento de Sistemas** e
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanoellima&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanoellima&layout=compact&langs_count=7&theme=tokyonight"/>
 </p>
 
 ---
