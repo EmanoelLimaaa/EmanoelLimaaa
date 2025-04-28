@@ -9,7 +9,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou um profissional em desenvolvimento na área de Tecnologia da Informação, com foco atual em **desenvolvimento backend com Python e Django**. Tenho formação técnica e experiência prática em suporte de TI, redes e atendimento ao cliente.
+Sou um profissional em desenvolvimento, com foco atual em **desenvolvimento backend com Python e Django**. Tenho formação técnica e experiência prática em suporte de TI, redes e atendimento ao cliente.
 
 Atualmente, curso o **3º semestre de Análise e Desenvolvimento de Sistemas** e sigo em constante evolução, buscando novos desafios com ética, disciplina e comprometimento.
 
