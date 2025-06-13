@@ -1,5 +1,4 @@
 <h1 align="center">Emanoel Lima</h1>
----
 
 ### 👨‍💻 Sobre mim
 
