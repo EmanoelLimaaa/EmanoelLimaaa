@@ -1,10 +1,4 @@
 <h1 align="center">Emanoel Lima</h1>
-
-<p align="center">
-  Profissional em Tecnologia da Informação • Desenvolvedor Backend  
-  <br><strong>Python</strong> • <strong>Django</strong> • <strong>Redes</strong> • <strong>Suporte Técnico</strong>
-</p>
-
 ---
 
 ### 👨‍💻 Sobre mim
