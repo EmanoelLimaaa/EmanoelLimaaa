@@ -8,7 +8,7 @@
 
 ##  Sobre mim  
 
-Sou o **Emanoel Lima**, 20 anos, estudante de **ADS**.  
+Sou o **Emanoel Lima**, 21 anos, estudante de **ADS**.  
 Curioso por natureza, gosto de entender como as coisas funcionam e transformar ideias em algo real.  
 Atualmente explorando o mundo da **tecnologia**, aprendendo **JavaScript, Node.js e React**.  
 Busco crescer como profissional, colaborar em projetos e construir algo que inspire outras pessoas. 🚀  
